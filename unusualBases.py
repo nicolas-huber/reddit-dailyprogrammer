@@ -1,4 +1,5 @@
 # Decimal to "Base Fib" - "Base Fib" to Decimal Converter
+# challenge url: "https://www.reddit.com/r/dailyprogrammer/comments/5196fi/20160905_challenge_282_easy_unusual_bases/"
 
 # Base Fib: use (1) or don't use (0) a Fibonacci Number to create any positive integer
 # example: 
